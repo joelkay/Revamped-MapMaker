@@ -1,0 +1,23 @@
+// BEGIN_INTERNALS
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "backup"
+#define FILE_DIR "icons"
+#define FILE_DIR "icons/forest"
+#define FILE_DIR "icons/mountain"
+#define FILE_DIR "pngs"
+#define FILE_DIR "pngs/browser"
+#define FILE_DIR "pngs/interior"
+// END_FILE_DIR
+// BEGIN_PREFERENCES
+#define DEBUG
+// END_PREFERENCES
+// BEGIN_INCLUDE
+#include "Arena.dmm"
+#include "code\map_Defines.dm"
+#include "code\map_Objects.dm"
+#include "code\NewShizle.dm"
+#include "code\turf_game.dm"
+#include "code\turf_obj.dm"
+// END_INCLUDE

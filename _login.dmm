@@ -25,15 +25,15 @@
 "ay" = (/obj/character_creation/character_appearance/preview_dir/right,/turf/dense,/area)
 "az" = (/obj/character_creation/character_appearance/icon/base1,/turf/dense,/area)
 "aA" = (/obj/character_creation/character_appearance/icon/base2,/turf/dense,/area)
-"aB" = (/obj/skilltree/skills/clan/Bubble_Clan,/obj/skilltree/line1,/turf/dense,/area)
+"aB" = (/obj/skilltree/skills/clan/Bubble_Clan,/obj/skilltree/line1{step_y = -1},/turf/dense,/area)
 "aC" = (/obj/skilltree/skills/clan/bubble/Blinding_Bubble,/turf/dense,/area)
-"aD" = (/obj/skilltree/skills/clan/bubble/Bubble_Barrage,/obj/skilltree/line1,/turf/dense,/area)
+"aD" = (/obj/skilltree/skills/clan/bubble/Bubble_Barrage,/obj/skilltree/line1{step_y = -1},/turf/dense,/area)
 "aE" = (/obj/skilltree/skills/clan/Akimichi_Clan,/turf/dense,/area)
 "aF" = (/obj/skilltree/skills/clan/Haku_Clan,/turf/dense,/area)
 "aG" = (/obj/skilltree/skills/clan/Hyuuga_Clan,/turf/dense,/area)
-"aH" = (/obj/skilltree/skills/clan/paper/Paper_Bomb,/obj/skilltree/line1,/turf/dense,/area)
+"aH" = (/obj/skilltree/skills/clan/paper/Paper_Bomb,/obj/skilltree/line1{step_y = -1},/turf/dense,/area)
 "aI" = (/obj/skilltree/skills/clan/paper/Paper_Shuriken,/turf/dense,/area)
-"aJ" = (/obj/skilltree/skills/clan/Paper_Clan,/obj/skilltree/line1,/turf/dense,/area)
+"aJ" = (/obj/skilltree/skills/clan/Paper_Clan,/obj/skilltree/line1{step_y = -1},/turf/dense,/area)
 "aK" = (/obj/skilltree/skills/general/clones/Clone,/turf/dense,/area)
 "aL" = (/obj/skilltree/skills/general/clones/Shadow_Clone{pixel_x = 16},/obj/skilltree/line1{pixel_x = -8},/turf/dense,/area)
 "aM" = (/obj/skilltree/line1{pixel_x = 8},/turf/dense,/area)
@@ -43,7 +43,7 @@
 "aQ" = (/obj/skilltree/skills/medical/Healing{pixel_y = -15},/turf/dense,/area)
 "aR" = (/obj/skilltree/skills/clan/bubble/Exploding_Bubble,/obj/skilltree/line6{pixel_x = -1; pixel_y = 3},/turf/dense,/area)
 "aS" = (/obj/skilltree/skills/clan/paper/Paper_Chasm,/obj/skilltree/line6{pixel_x = -1; pixel_y = 3},/turf/dense,/area)
-"aT" = (/obj/skilltree/skills/elements/wind/Pressure_Damage{pixel_x = -3},/obj/skilltree/line1,/turf/dense,/area)
+"aT" = (/obj/skilltree/skills/clan/hyuuga/Turning_the_Tide{pixel_x = -8; pixel_y = -16},/obj/skilltree/line2{pixel_x = -8; pixel_y = 6},/obj/skilltree/line1{step_y = 0; pixel_x = 8; pixel_y = 4},/turf/dense,/area)
 "aU" = (/obj/skilltree/skills/elements/lightning/Chidori_Spear{pixel_y = -5},/turf,/area)
 "aV" = (/obj/skilltree/skills/elements/lightning/False_Darkness{pixel_x = 7; pixel_y = -5},/turf,/area)
 "aW" = (/obj/sale/Black_Shirt,/turf/dense,/area)
@@ -63,13 +63,13 @@
 "bk" = (/obj/sale/Anbu_Mask_2,/turf,/area)
 "bl" = (/obj/sale/Anbu_Mask_3,/turf,/area)
 "bm" = (/obj/character_creation/character_appearance/preview_dir/down,/turf/dense,/area)
-"bn" = (/obj/skilltree/skills/elements/Wind_Elemental_Control{pixel_x = 7},/obj/skilltree/line1,/turf/dense,/area)
+"bn" = (/obj/skilltree/skills/clan/kaguya/Young_Bracken_Dance{pixel_y = -8},/obj/skilltree/line1{pixel_y = 16},/obj/skilltree/line2{step_x = -2; pixel_y = 16},/turf/dense,/area)
 "bo" = (/obj/skilltree/skills/clan/akimichi/Size_Multiplication{pixel_x = -8; pixel_y = -8},/obj/skilltree/line2{pixel_x = -7; pixel_y = 12},/obj/skilltree/line1{pixel_x = 8; pixel_y = 12},/turf/dense,/area)
 "bp" = (/obj/skilltree/skills/clan/akimichi/Human_Bullet_Tank{pixel_y = -16},/obj/skilltree/line1{pixel_y = 12},/obj/skilltree/line6{pixel_x = -1; pixel_y = 10},/turf/dense,/area)
 "bq" = (/obj/skilltree/skills/clan/akimichi/Spinach_Pill{pixel_x = 8; pixel_y = -8},/obj/skilltree/line2{pixel_x = 6; pixel_y = 12},/obj/skilltree/line1{pixel_x = -8; pixel_y = 12},/turf/dense,/area)
 "br" = (/obj/skilltree/line6{pixel_x = -1; pixel_y = 10},/obj/skilltree/skills/clan/haku/Sensatsusuisho{pixel_y = -8},/turf/dense,/area)
 "bs" = (/obj/skilltree/skills/clan/hyuuga/Byakugan{pixel_y = -8},/obj/skilltree/line6{pixel_x = -1; pixel_y = 10},/turf/dense,/area)
-"bt" = (/obj/skilltree/line1,/turf/dense,/area)
+"bt" = (/obj/skilltree/line2{pixel_x = -8; pixel_y = 6},/obj/skilltree/line1{step_y = 0; pixel_x = 8; pixel_y = 4},/obj/skilltree/skills/clan/puppet/Puppet_Swap{pixel_x = -8; pixel_y = -16},/turf/dense,/area)
 "bu" = (/obj/skilltree/skills/general/Exploding_Body_Replacement{pixel_x = 32; pixel_y = -16},/turf/dense,/area)
 "bv" = (/obj/skilltree/skills/general/clones/Multiple_Shadow_Clone{pixel_x = 16; pixel_y = -16},/obj/skilltree/line6{pixel_x = 16; pixel_y = 8},/turf/dense,/area)
 "bw" = (/obj/skilltree/line1{pixel_x = 1; pixel_y = 10},/turf/dense,/area)
@@ -98,7 +98,7 @@
 "bT" = (/obj/skilltree/skills/clan/akimichi/Super_Size_Multiplication{pixel_x = -8; pixel_y = -16},/obj/skilltree/line6{pixel_x = -8},/turf/dense,/area)
 "bU" = (/obj/skilltree/skills/clan/akimichi/Curry_Pill{pixel_x = 8; pixel_y = -16},/obj/skilltree/line6{pixel_x = 15; pixel_y = 0},/turf/dense,/area)
 "bV" = (/obj/skilltree/line6{pixel_x = -1; pixel_y = 3},/obj/skilltree/skills/clan/haku/Ice_Explosion{pixel_y = -16},/turf/dense,/area)
-"bW" = (/obj/skilltree/skills/clan/hyuuga/Turning_the_Tide{pixel_x = -8; pixel_y = -16},/obj/skilltree/line2{pixel_x = -8; pixel_y = 6},/obj/skilltree/line1{pixel_x = 8; pixel_y = 4},/turf/dense,/area)
+"bW" = (/obj/skilltree/skills/clan/Yamanaka_Clan{step_x = 11; step_y = 4},/turf,/area)
 "bX" = (/obj/skilltree/skills/clan/hyuuga/Palms{pixel_y = -24},/obj/skilltree/line6{pixel_y = -4},/obj/skilltree/line16{pixel_x = 6; pixel_y = -10},/obj/skilltree/line12{pixel_y = 19},/turf/dense,/area)
 "bY" = (/obj/skilltree/skills/clan/hyuuga/Gentle_Fist{pixel_x = 8; pixel_y = -16},/obj/skilltree/line2{pixel_x = 8; pixel_y = 6},/obj/skilltree/line1{pixel_x = -8; pixel_y = 4},/turf/dense,/area)
 "bZ" = (/obj/skilltree/skills/clan/Uchiha_Clan,/turf/dense,/area)
@@ -345,7 +345,7 @@
 "gG" = (/obj/item_appearence/plate/sholders/red,/turf/dense,/area)
 "gH" = (/obj/item_appearence/plate/sholders/white,/turf/dense,/area)
 "gI" = (/obj/skilltree/line3{pixel_y = 16},/turf/dense,/area)
-"gJ" = (/obj/skilltree/skills/clan/kaguya/Young_Bracken_Dance{pixel_y = -8},/obj/skilltree/line1{pixel_y = 16},/obj/skilltree/line2{pixel_y = 16},/turf/dense,/area)
+"gJ" = (/obj/skilltree/line1{step_y = -1},/turf,/area)
 "gK" = (/obj/skilltree/line1{pixel_x = -6; pixel_y = 16},/obj/skilltree/line16{pixel_x = 16; pixel_y = 2},/turf/dense,/area)
 "gL" = (/obj/skilltree/skills/clan/puppet/First_Puppet{pixel_y = -8},/obj/skilltree/line6{pixel_x = -1; pixel_y = 10},/turf/dense,/area)
 "gM" = (/obj/skilltree/line6{pixel_x = 0; pixel_y = -12},/obj/skilltree/skills/clan/jashin/Stab_Self,/turf/dense,/area)
@@ -366,7 +366,7 @@
 "hb" = (/obj/character_creation/character_appearance/eye_color/eyecolor6,/turf/dense,/area)
 "hc" = (/obj/character_creation/character_appearance/eye_color/eyecolor7,/turf/dense,/area)
 "hd" = (/obj/skilltree/skills/clan/Deidara_Clan,/obj/skilltree/line2{pixel_y = -4},/turf/dense,/area)
-"he" = (/obj/skilltree/line2{pixel_x = -8; pixel_y = 6},/obj/skilltree/line1{pixel_x = 8; pixel_y = 4},/obj/skilltree/skills/clan/puppet/Puppet_Swap{pixel_x = -8; pixel_y = -16},/turf/dense,/area)
+"he" = (/obj/skilltree/skills/clan/yamanaka/Mind_Transfer_Jutsu{step_x = -13; step_y = -1},/turf,/area)
 "hf" = (/obj/skilltree/line1{pixel_x = 0; pixel_y = 4},/obj/skilltree/line16{pixel_x = 6; pixel_y = -10},/obj/skilltree/line6{pixel_y = -4},/turf/dense,/area)
 "hg" = (/obj/skilltree/line2{pixel_x = 8; pixel_y = 6},/obj/skilltree/line1{pixel_x = -8; pixel_y = 4},/obj/skilltree/skills/clan/puppet/Puppet_Transform{pixel_x = 8; pixel_y = -16},/turf/dense,/area)
 "hh" = (/obj/skilltree/skills/clan/jashin/Wound_Regeneration,/turf/dense,/area)
@@ -380,10 +380,10 @@
 "hp" = (/obj/character_creation/character_appearance/eye_color/eyecolor2,/turf/dense,/area)
 "hq" = (/obj/character_creation/character_appearance/eye_color/eyecolor3,/turf/dense,/area)
 "hr" = (/obj/character_creation/character_appearance/eye_color/rgb,/turf/dense,/area)
-"hs" = (/obj/skilltree/skills/clan/deidara/Exploding_Bird{pixel_x = 8; pixel_y = -8},/obj/skilltree/line2{pixel_x = 8; pixel_y = 12},/obj/skilltree/line3{pixel_x = 8; pixel_y = 12},/turf/dense,/area)
+"hs" = (/obj/skilltree/skills/clan/deidara/Exploding_Bird{step_x = 4; pixel_x = 8; pixel_y = -8},/obj/skilltree/line2{pixel_x = 8; pixel_y = 12},/obj/skilltree/line3{pixel_x = 8; pixel_y = 12},/turf/dense,/area)
 "ht" = (/obj/skilltree/line1{pixel_y = 12},/turf/dense,/area)
 "hu" = (/obj/skilltree/skills/clan/deidara/Exploding_Spider{pixel_x = -8; pixel_y = -8},/obj/skilltree/line2{pixel_x = -9; pixel_y = 12},/obj/skilltree/line5{pixel_x = -8; pixel_y = 12},/turf/dense,/area)
-"hv" = (/obj/skilltree/skills/clan/yamanaka/Mind_Tag,/turf/dense,/area)
+"hv" = (/obj/skilltree/line2{step_x = -46; step_y = -6},/turf,/area)
 "hw" = (/obj/skilltree/skills/clan/puppet/Second_Puppet,/turf/dense,/area)
 "hx" = (/obj/skilltree/skills/clan/sand/Desert_Funeral{pixel_x = -8; pixel_y = -16},/obj/skilltree/line1{pixel_x = 8; pixel_y = 11},/obj/skilltree/line4{pixel_x = -8; pixel_y = -4},/turf/dense,/area)
 "hy" = (/obj/skilltree/skills/clan/sand/Sand_Shield{pixel_y = -8},/obj/skilltree/line6{pixel_x = -1; pixel_y = 10},/obj/skilltree/line1{pixel_y = 11},/turf/dense,/area)
@@ -396,15 +396,15 @@
 "hF" = (/obj/skilltree/line5{pixel_x = -16},/obj/skilltree/skills/general/gates/Wonder_Gate,/turf/dense,/area)
 "hG" = (/obj/skilltree/skills/general/weapons/Dancing_Blade,/turf/dense,/area)
 "hH" = (/obj/skilltree/skills/general/weapons/Iai_Beheading{pixel_x = 11},/turf/dense,/area)
-"hI" = (/obj/skilltree/skills/general/weapons/Instant{pixel_x = 23},/obj/skilltree/line1,/turf/dense,/area)
+"hI" = (/obj/skilltree/skills/general/weapons/Instant{pixel_x = 23},/obj/skilltree/line1{step_y = -1},/turf/dense,/area)
 "hJ" = (/obj/skilltree/skills/elements/fire/Grand_Fireball{pixel_x = -10},/turf/dense,/area)
 "hK" = (/obj/skilltree/skills/elements/Fire_Elemental_Control{pixel_y = 0},/turf/dense,/area)
 "hL" = (/obj/skilltree/skills/elements/fire/Hosenka{pixel_x = 10},/turf/dense,/area)
 "hM" = (/obj/skilltree/skills/elements/fire/Fire_Dragon_Flaming_Projectile{pixel_x = 19},/obj/skilltree/line3{pixel_x = -12; pixel_y = -2},/turf/dense,/area)
 "hN" = (/obj/skilltree/line4{pixel_x = 8; pixel_y = 4},/obj/skilltree/line3{pixel_x = 8; pixel_y = 4},/turf/dense,/area)
 "hO" = (/obj/skilltree/skills/clan/deidara/C3{pixel_y = -16},/obj/skilltree/line2{pixel_y = 4},/obj/skilltree/line14{pixel_x = 8; pixel_y = -6},/turf/dense,/area)
-"hP" = (/obj/skilltree/line4{pixel_x = -8; pixel_y = 2},/obj/skilltree/line13{pixel_x = -23; pixel_y = -6},/turf/dense,/area)
-"hQ" = (/obj/skilltree/skills/clan/yamanaka/Mind_Transfer_Jutsu,/turf/dense,/area)
+"hP" = (/obj/skilltree/skills/clan/yamanaka/Wolfbane{step_x = 9},/turf,/area)
+"hQ" = (/obj/skilltree/line4{pixel_x = -8; pixel_y = 2},/obj/skilltree/line13{step_x = 0; step_y = 0; pixel_x = -23; pixel_y = -6},/turf/dense,/area)
 "hR" = (/obj/skilltree/skills/clan/sand/Sand_Armor{pixel_y = -16},/obj/skilltree/line6{pixel_x = -1; pixel_y = 3},/turf/dense,/area)
 "hS" = (/obj/skilltree/line1{pixel_x = 0; pixel_y = 31},/turf/dense,/area)
 "hT" = (/obj/skilltree/skills/elements/wind/Vacuum_Blade_Rush{pixel_x = -12; pixel_y = -6},/obj/skilltree/line1{pixel_y = -8},/turf/dense,/area)
@@ -426,10 +426,10 @@
 "ij" = (/obj/character_creation/character_appearance/hair_color/haircolor9,/turf/dense,/area)
 "ik" = (/obj/character_creation/character_appearance/hair_color/haircolor10,/turf/dense,/area)
 "il" = (/obj/character_creation/character_appearance/hair_color/haircolor11,/turf/dense,/area)
-"im" = (/obj/skilltree/skills/clan/Yamanaka_Clan,/turf/dense,/area)
-"in" = (/obj/skilltree/skills/clan/yamanaka/Petal_Dance,/turf/dense,/area)
-"io" = (/obj/skilltree/skills/clan/yamanaka/Petals,/turf/dense,/area)
-"ip" = (/obj/skilltree/skills/clan/yamanaka/Flower_Bomb,/turf/dense,/area)
+"im" = (/obj/skilltree/skills/clan/yamanaka/Mind_Disturbance{step_x = 19; step_y = -5},/obj/skilltree/line2{step_x = -21; step_y = 25},/turf,/area)
+"in" = (/obj/skilltree/skills/elements/wind/Pressure_Damage{pixel_x = -3},/obj/skilltree/line1{step_y = -1},/turf/dense,/area)
+"io" = (/obj/skilltree/skills/elements/Wind_Elemental_Control{pixel_x = 7},/obj/skilltree/line1{step_y = -1},/turf/dense,/area)
+"ip" = (/obj/skilltree/line1{step_y = -1},/turf/dense,/area)
 "iq" = (/obj/sale/Zabuza_Sword,/turf/dense,/area)
 "ir" = (/obj/sale/RespecPill,/turf,/area)
 "is" = (/obj/skilltree/line1{pixel_y = -8},/turf/dense,/area)
@@ -529,6 +529,10 @@
 "ki" = (/turf/Map/Sand,/area)
 "kj" = (/obj/sale/RenamePill,/turf,/area)
 "kk" = (/obj/sale/Samurai_Sword,/turf/dense,/area)
+"kl" = (/obj/skilltree/skills/clan/yamanaka/Flower_Bomb{step_x = 9; step_y = -5},/obj/skilltree/line2{step_x = 10; step_y = 17},/turf,/area)
+"km" = (/obj/skilltree/line2{step_x = 18; step_y = 14},/turf,/area)
+"kn" = (/obj/skilltree/skills/clan/yamanaka/Mind_Read{step_x = -13; step_y = -10},/turf,/area)
+"ko" = (/obj/skilltree/skills/clan/yamanaka/Cursed_Doll{step_x = -8; step_y = 27},/obj/skilltree/line1{step_x = -21; step_y = 25},/turf,/area)
 
 (1,1,1) = {"
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
@@ -701,17 +705,17 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaapapaa
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaqaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaraaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaasasasasaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabasasasasasasasasasasasasasasasasasababababababababababababababababababababab
 aaaaaaaaataaaaauaaaaavaaaaaaaaaaaaabaaawaxayaaazaAaaaaaaaaaaaaaaaaaaaaabaaaBaCaDaaaEaaaaaFaaaaaGaaaHaIaJaaabaaaKaLaMaNaOaaaPaaaaaaaaaaaaaaaaaaabaaasasasaUaVaaaaaaaaaaaaaaasaaaaaaabaaaWaXaYaZbabbbcaaaabdbebfbgbhbiaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaasasasasasasbjbkblaaaaaaaaaaaaaaabaaasasasasasasasasasaaaaaaaaaaaaaaabasasasasasasasasasasasasasasasasasababababababababababababababababababababab
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaabmaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaRaabobpbqaabraaaabsaaaSaaaaaaabbuaabvbwbxbyaaaaaaaaaaaabzaQbBaaaaabaaasasasbCbDaabEaaaaasasaabFasaaaaabaabGbHbIbJbKbLaaaaaabMbNbObPbQbRaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaasasasasasasasasasaaaaaaaaaaaaaaabaaasasasasasasasasasaaaaaaaaaaaaaaabasasasasasasasasasasasasasasasasasababababababababababababababababababababab
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaabSaaaabTaabUaabVaabWbXbYaaaabZaaabaaaaaaaaaaaaaaaaaaaaaacacbcccdceaaabaaaaaaaaaacfaacgchaaaaasciaaaaaaaaabaacjckclcmcncocpcqaacrcsctcucvcwaaabaaaaaaaacxaacyaaczaacAaacBaacCaaaaabaaascDcEcFcGcHcIascJcKcLcMcNcOaaaaabaaasasasasasasasasasasasasaaaaaaaaabasasasasasasasasasasasasasasasasasababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaabSaaaabTaabUaabVaaaTbXbYaaaabZaaabaaaaaaaaaaaaaaaaaaaaaacacbcccdceaaabaaaaaaaaaacfaacgchaaaaasciaaaaaaaaabaacjckclcmcncocpcqaacrcsctcucvcwaaabaaaaaaaacxaacyaaczaacAaacBaacCaaaaabaaascDcEcFcGcHcIascJcKcLcMcNcOaaaaabaaasasasasasasasasasasasasaaaaaaaaabasasasasasasasasasasasasasasasasasababababababababababababababababababababab
 aacPaaaaaaaaaaaaaacQaaaaaaaaaaaaaaabaaaacRcScTcUcVcWcXcYcZdadbdcdddeaaabaadfaaaaaaaaaaaadgaaaaaaaaaaaadhaaabaadidjaaaadldmdndoaadpdqaadraadsaaabaaasasasasasaaaaaaaadtaaduaadvaaaaabaadwdxdydzdAdBaaaaaadCdDdEdFdGdHaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaasasasasasasasaaasasasasasasaaaaabaaasasasasasdIdJdKdLdMasasaaaaaaaaabasasasasasasasasasasasasasasasasasababababababababababababababababababababab
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaadNdOdPdQdRdSdTdUdVdWdXdYdZaaaaabaaeaaaaaaaebaaaaecaaaaaaaaaaaaedaaabaaeeefaafiegaaeheiejaaekaaelemenaaabaaaseoasasasaaaaaaaaaaaaepaaeqeraaabaaeseteuevewexaaeyaaezeAeBeCeDeEaaabaaaaaaaaeFaaeGaaeHaaeIaaeJaaeKaaaaabaaaseLeMeNeOePeQeReSeTeUeVeWeXaaaaabaaasasasasasasaseYasasasasaaaaaaaaabasasaskjasirasasgaasaaitaskkaaaaaaababababababababababababababababababababab
 aaaaaaaaaaaaaaaaeZaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaafaaaaaaaaaaaaaaaaaabaadgaaaafbfcfdaafeaaaaffaaaaaadgaaabaaaafgfhaafjfkaaflaaaaekfmaaaafnaaabaaaafoaaaaaaaaaafpaaaaaaaaaaaaaaaaabaafqfrfsftfufvaaaaaafwfxfyfzfAaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaasasfBfCfDfEasaaaafFfGfHfIaaaaaaabaaasasasasasfJasfKasfLasasaaaaaaaaabasasasasasasasasasasasasasasasasasababababababababababababababababababababab
 aafMaaaafNaafOaaaafPaafQaaaafRaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaafSaaaafTaafUaafVaaaafWaaaaaafXaaabaafYfZaadkgbgcgdgeaaaaaagfggghaaaaabaagigjaagkglaaaaaaaaaaaaaaaaaaaaaaabaagmgngogpgqgraaaaaaasasasasasasaaabaaaaaaaagsaagtaaguaagvaagwaagxaaaaabaaasasgygzgAgBgCasgDgEgFgGgHaaaaaaabaaasasasasasasasaaaaaaaaaaaaaaaaaaabasasasasasasasasasasasasasasasasasababababababababababababababababababababab
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaagIgJgKaagLaaaagMaaaaaaaaaaabaaaaaagNaagOaaaagPaaaaaaaaaaaaaaaaabaagQgRaagSaaaaaaaaaaaaaaaaaaaaaaaaabaagTgUgVgWgXgYaaaaaaasasasasasasaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaasasasasasasaaaaaaaaaaaaaaaaaaaaabaaasasasasasasaaaaaaaaaaaaaaaaaaaaabasasasasasasasasiuasasasasasasasasababababababababababababababababababababab
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaagZhahbhcaaaaaaaaaaaaaaaaaaaaaaaaabaaaahdaaasasashehfhgaahhaaaahiaaaaabaahjaaaaaafjfUhkaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaashlaaaaaaaaabaaasasasasasasaaaaaaasasasasaaaaaaabaaaaaaaahmaahnaaiqaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabasasasasasasasasasasasasasasasasasababababababababababababababababababababab
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaahohphqhraaaaaaaaaaaaaaaaaaaaaaaaabaahshthuaahvaaaahwaaaaaaaahxhyhzaaabaahAhBhCaahDhEaahFaaaahGhHhIaaaaaaabaaaaaaaaaaaaasaaaaaaaahJhKhLhMaaaaabaaasasasasasasaaaaaaasasasasaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabasasasasasasasasasasasasasasasasasababababababababababababababababababababab
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaahNhOhPaahQaaasaaasaaaaaaaahRaaaaabaaaaaahSaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaTbnbthVhWaaaaaahXaahYaaaaaaabaaasasasasasasaaaaaaasasasasaaaaaaabaaaaaaaahZaaiaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabasasasasasasasasasasasasasasasasasababababababababababababababababababababab
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaibicidieifigihiiijikilaaaaaaaaaaabaaaaaaaaiminioipaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaabAishThUaaaaaaaaaaaaaaaaaaabaaasasasasasasaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabasasasasasasasasasasasasasasasasasababababababababababababababababababababab
-aaivaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaiwixiyiziAiBiCiDiEiFiGaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaiHaaaaaaiIaaaaabaaaaaaaaaaaaaaaaaaaaiHaaaaaaiJaaaaabaaaaaaaaaaaaaaaaaaaaiHaaaaaaiKaaaaabaaasasasasasasaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabasasasasasasasasasasasasasasasasasababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabasasasasgIbngKaagLaaaagMaaaaaaaaaaabaaaaaagNaagOaaaagPaaaaaaaaaaaaaaaaabaagQgRaagSaaaaaaaaaaaaaaaaaaaaaaaaabaagTgUgVgWgXgYaaaaaaasasasasasasaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaasasasasasasaaaaaaaaaaaaaaaaaaaaabaaasasasasasasaaaaaaaaaaaaaaaaaaaaabasasasasasasasasiuasasasasasasasasababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaagZhahbhcaaaaaaaaaaaaaaaaaaaaaaaaabaahdaaasasasasbthfhgaahhaaaahiaaaaabaahjaaaaaafjfUhkaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaashlaaaaaaaaabaaasasasasasasaaaaaaasasasasaaaaaaabaaaaaaaahmaahnaaiqaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabasasasasasasasasasasasasasasasasasababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaahohphqhraaaaaaaaaaaaaaaaaaaaaaaaabhshthubWgJhehvaahwaaaaaaaahxhyhzaaabaahAhBhCaahDhEaahFaaaahGhHhIaaaaaaabaaaaaaaaaaaaasaaaaaaaahJhKhLhMaaaaabaaasasasasasasaaaaaaasasasasaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabasasasasasasasasasasasasasasasasasababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabhNhOhQhPimasasasaaasaaaaaaaahRaaaaabaaaaaahSaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaainioiphVhWaaaaaahXaahYaaaaaaabaaasasasasasasaaaaaaasasasasaaaaaaabaaaaaaaahZaaiaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabasasasasasasasasasasasasasasasasasababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaibicidieifigihiiijikilaaaaaaaaaaabaaaaaaklkmknkoaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaabAishThUaaaaaaaaaaaaaaaaaaabaaasasasasasasaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabasasasasasasasasasasasasasasasasasababababababababababababababababababababab
+aaivaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaiwixiyiziAiBiCiDiEiFiGaaaaaaaaaaabaaaaaaasasasasaaaaaaiHaaaaaaiIaaaaabaaaaaaaaaaaaaaaaaaaaiHaaaaaaiJaaaaabaaaaaaaaaaaaaaaaaaaaiHaaaaaaiKaaaaabaaasasasasasasaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabasasasasasasasasasasasasasasasasasababababababababababababababababababababab
 iLaaaaaaaaaaaaaaaaaaaaaaaaiMaaaaaaabiNaaaaaaaaaaaaaaaaaaaaaaaaaaiOiOaaabiPaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabiQaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabiRabababababababababababababababababiSabababababababababababababababababiSabababababababababababababababababiSabababababababababababababababababiSabababababababababababababababababiSababababababababababababababababababababababababababababababababababababab
 ababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababasasasasasasasasasasasasasiTiTiTasabababasasasasasasasasasasasasasiUiUiUasab
 iViViViViViViViViViViViViViViViViVabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasabasasasasasasasasasasasasasiTiTiTasabababasasasasasasasasasasasasasiUiUiUasab

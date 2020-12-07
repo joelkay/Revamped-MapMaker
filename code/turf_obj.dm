@@ -1,4 +1,9 @@
 obj
+	statues
+		gedo
+			density=0
+			layer=TURF_LAYER+0.9
+			icon = 'icons/statues/gedo.dmi'
 	flowers
 		icon='icons/GOAturfs.dmi'
 		density=0

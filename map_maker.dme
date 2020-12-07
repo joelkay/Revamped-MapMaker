@@ -6,6 +6,7 @@
 #define FILE_DIR "icons"
 #define FILE_DIR "icons/forest"
 #define FILE_DIR "icons/mountain"
+#define FILE_DIR "icons/statues"
 #define FILE_DIR "pngs"
 #define FILE_DIR "pngs/browser"
 #define FILE_DIR "pngs/interior"

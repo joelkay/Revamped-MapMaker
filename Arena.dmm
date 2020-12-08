@@ -331,7 +331,7 @@
 "gs" = (/turf/Terrain/LightDirt,/obj/water,/turf/trees/Tree,/area)
 "gt" = (/turf/Terrain/LightDirt,/obj/water_sides/w0d,/turf/trees/Tree,/area)
 "gu" = (/maptag{name = "arena4"; tag = "arena4_spawn"},/turf/Terrain/LightDirt,/area)
-"gv" = (/turf/Chuunin_Exam/rfloor,/area)
+"gv" = (/maptag{name = "arena4"; tag = "arena4_spawn"},/turf/Chuunin_Exam/rfloor,/area)
 "gw" = (/turf/Terrain/Sand,/turf/buildings/inn/Tiger_inn{density = 1},/turf/denseforppl,/area)
 "gx" = (/turf/Terrain/Dirt,/turf/denseforppl,/area)
 "gy" = (/turf/mountain/rockyground,/turf/denseforppl,/area)

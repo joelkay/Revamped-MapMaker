@@ -40,3 +40,4 @@ area
 
 
 
+proc/scroll_drop(mob/M,location)

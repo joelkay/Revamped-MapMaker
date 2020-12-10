@@ -114,10 +114,11 @@ area
 				if(istype(O) && O.dir == NORTH)
 					O.LocationEnter("Konoha")
 					O<<"You have entered Konoha"
+					spawn() scroll_drop(O,"Konoha")
 					if(istype(O, /mob/human/player))
 						if(O.client && O.faction:village != "Konoha")
 							for(var/faction/F)
-								if(F.village=="Konoha")
+								if(F.village=="konoha")
 									F.online_members<<"<span class='territory_info'>(Alert): Raider Detected!! Your village is now at alert level 1!</span>"
 
 //				..()
@@ -127,10 +128,11 @@ area
 				if(istype(O))
 					O.LocationEnter("Suna")
 					O<<"You have entered Suna"
+					spawn() scroll_drop(O,"Suna")
 					if(istype(O, /mob/human/player))
 						if(O.client && O.faction:village != "Suna")
 							for(var/faction/F)
-								if(F.village=="Suna")
+								if(F.village=="suna")
 									F.online_members<<"<span class='territory_info'>(Alert): Raider Detected!! Your village is now at alert level 1!</span>"
 
 
@@ -141,6 +143,7 @@ area
 				if(istype(O))
 					O.LocationEnter("Kiri")
 					O<<"You have entered Hidden Mist"
+					spawn() scroll_drop(O,"kiri")
 					if(istype(O, /mob/human/player))
 						if(O.client && O.faction:village != "Kiri")
 							for(var/faction/F)
@@ -202,6 +205,7 @@ area
 		Entered(mob/O)
 			if(istype(O))
 				O.LocationEnter("Cha no Kuni")
+				spawn() scroll_drop(O,"missing")
 				O<<"You have entered Cha no Kuni"
 			..()
 

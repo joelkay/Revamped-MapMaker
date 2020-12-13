@@ -1,0 +1,4 @@
+[submodule "GOA-Revamped-Shared"]
+	path = GOA-Revamped-Shared
+	url = https://github.com/joelkay/GOA-Revamped-Shared.git
+	branch = main

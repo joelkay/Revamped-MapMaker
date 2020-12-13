@@ -1,7 +1,7 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 0.500
-LAST_COMPILE_TIME: 1607866204
+LAST_COMPILE_TIME: 1607867327
 PACKAGE_RSC_NAME: C:\Development\GOA-Revamped\Source\map\map_maker_rsc.zip
 DIR: code GOA-Revamped-Shared GOA-Revamped-Shared\Creation_Screen GOA-Revamped-Shared\war 
 AUTO_FILE_DIR: ON
@@ -12,8 +12,8 @@ LAST_COMPILE_VERSION: 513.1537
 PACKAGE_DME_START: 
 PACKAGE_TYPE: 1
 PACKAGE_DME_INFO: 
-WINDOW: code\skilltree_objects.dm;code\map_Defines.dm
-FILE: code\skilltree_objects.dm
+WINDOW: code\map_Defines.dm
+FILE: code\map_Defines.dm
 PACKAGE_DME_DEMO: 
 PACKAGE_DMB_NAME: C:\Development\GOA-Revamped\Source\map\map_maker.zip
 */

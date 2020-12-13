@@ -45,8 +45,6 @@
 #include "code\map_Defines.dm"
 #include "code\map_Objects.dm"
 #include "code\npc_Defines.dm"
-#include "code\skill_Defines.dm"
-#include "code\skilltree_objects.dm"
 #include "GOA-Revamped-Shared\interiors.dm"
 #include "GOA-Revamped-Shared\items.dm"
 #include "GOA-Revamped-Shared\map.dm"

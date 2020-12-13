@@ -1,4 +1,18 @@
+obj/world_scroll_altar
+	layer = MOB_LAYER - 1
+	icon='Hokage Memorial.dmi'
+
+
+obj/Steam
+	icon='icons/steam_cloud.dmi'
+	icon_state="steam"
+	density=0
+	layer=MOB_LAYER+1
+
 obj
+	dense
+		density = 1
+
 	statues
 		gedo
 			density=0

@@ -1,4 +1,3 @@
-#define CHECK_TICK if(world.tick_usage > 80) sleep(world.tick_lag)
 client
 	var
 		run_count

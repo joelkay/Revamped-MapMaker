@@ -114,7 +114,7 @@ area
 				if(istype(O) && O.dir == NORTH)
 					O.LocationEnter("Konoha")
 					O<<"You have entered Konoha"
-					spawn() scroll_drop(O,"Konoha")
+					spawn() scroll_drop(O,"konoha")
 					if(istype(O, /mob/human/player))
 						if(O.client && O.faction:village != "Konoha")
 							for(var/faction/F)
@@ -128,7 +128,7 @@ area
 				if(istype(O))
 					O.LocationEnter("Suna")
 					O<<"You have entered Suna"
-					spawn() scroll_drop(O,"Suna")
+					spawn() scroll_drop(O,"suna")
 					if(istype(O, /mob/human/player))
 						if(O.client && O.faction:village != "Suna")
 							for(var/faction/F)

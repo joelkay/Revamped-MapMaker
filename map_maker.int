@@ -1,7 +1,7 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-LAST_COMPILE_TIME: 1608174040
+LAST_COMPILE_TIME: 1608177036
 DIR: GOA-Revamped-Shared\Creation_Screen 
 PACKAGE_RSC_NAME: C:\Development\GOA-Revamped\Source\map\map_maker_rsc.zip
 AUTO_FILE_DIR: ON
@@ -11,9 +11,9 @@ PACKAGE_DME_NAME: C:\Development\GOA-Revamped\Source\map\map_maker_src.zip
 LAST_COMPILE_VERSION: 513.1537
 PACKAGE_TYPE: 1
 PACKAGE_DME_START: 
-WINDOW: Arena.dmm
+WINDOW: Arena.dmm;hideouts.dmm
 PACKAGE_DME_INFO: 
-FILE: Arena.dmm
+FILE: hideouts.dmm
 PACKAGE_DMB_NAME: C:\Development\GOA-Revamped\Source\map\map_maker.zip
 PACKAGE_DME_DEMO: 
 */

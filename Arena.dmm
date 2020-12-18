@@ -70,7 +70,7 @@
 "br" = (/turf/Inside/Floor2,/area)
 "bs" = (/turf/sides/L/north,/turf/Terrain/DGrass,/area)
 "bt" = (/turf/Terrain/DDGrass,/turf/Terrain/SandNorth,/area)
-"bu" = (/turf/Inside/Floor3,/area)
+"bu" = (/turf/Inside/Floor6,/area)
 "bv" = (/turf/Terrain/DDGrass,/turf/sides/L/east,/area)
 "bw" = (/obj/water,/turf/water_sides,/area)
 "bx" = (/turf/Terrain/DDGrass,/turf/sides/L/north,/turf/sides/L/east,/area)

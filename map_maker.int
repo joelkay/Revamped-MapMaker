@@ -1,7 +1,7 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-LAST_COMPILE_TIME: 1608323352
+LAST_COMPILE_TIME: 1608324693
 PACKAGE_RSC_NAME: C:\Development\GOA-Revamped\Source\map\map_maker_rsc.zip
 DIR: code GOA-Revamped-Shared icons 
 AUTO_FILE_DIR: ON
@@ -11,7 +11,7 @@ PACKAGE_DME_NAME: C:\Development\GOA-Revamped\Source\map\map_maker_src.zip
 LAST_COMPILE_VERSION: 513.1538
 PACKAGE_DME_START: 
 PACKAGE_TYPE: 1
-WINDOW: Arena.dmm;GOA-Revamped-Shared\Map Stuff\interiors.dm;icons\house_stuff.dmi;icons\house_stuff2.dmi;code\map_Objects.dm
+WINDOW: Arena.dmm;GOA-Revamped-Shared\Map Stuff\interiors.dm;icons\house_stuff.dmi;icons\house_stuff2.dmi
 PACKAGE_DME_INFO: 
 FILE: Arena.dmm
 PACKAGE_DME_DEMO: 

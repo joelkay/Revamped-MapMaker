@@ -1,7 +1,7 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-LAST_COMPILE_TIME: 1608426455
+LAST_COMPILE_TIME: 1608859962
 PACKAGE_RSC_NAME: C:\Development\GOA-Revamped\Source\map\map_maker_rsc.zip
 DIR: icons 
 AUTO_FILE_DIR: ON
@@ -11,9 +11,7 @@ PACKAGE_DME_NAME: C:\Development\GOA-Revamped\Source\map\map_maker_src.zip
 LAST_COMPILE_VERSION: 513.1539
 PACKAGE_DME_START: 
 PACKAGE_TYPE: 1
-WINDOW: Arena.dmm
 PACKAGE_DME_INFO: 
-FILE: Arena.dmm
 PACKAGE_DME_DEMO: 
 PACKAGE_DMB_NAME: C:\Development\GOA-Revamped\Source\map\map_maker.zip
 */

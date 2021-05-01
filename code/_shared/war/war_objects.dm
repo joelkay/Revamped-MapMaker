@@ -456,9 +456,11 @@ obj
 				md.contents.Add(defender_beacon)
 
 			removeBeacons()
-				attacker_beacon.loc = null
+				if(attacker_beacon)
+					attacker_beacon.loc = null
 				//attacker_beacon = null
-				defender_beacon.loc = null
+				if(defender_beacon)
+					defender_beacon.loc = null
 				//defender_beacon = null
 
 

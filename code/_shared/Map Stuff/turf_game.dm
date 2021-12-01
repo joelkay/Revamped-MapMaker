@@ -151,49 +151,6 @@ area
 									F.online_members<<"<span class='territory_info'>(Alert): Raider Detected!! Your village is now at alert level 1!</span>"
 
 
-//				..()
-/*
-		proc
-			daycycle7()
-				/*overlays += 'entardecer.dmi'	// add a 25% dither for a fading effect
-				world<<"It's gonna be dark soon"
-				sleep(3000)
-				overlays -= 'entardecer.dmi'	// remove the dither
-				overlays += 'black50.dmi'	// add the 50% dither
-				world<<"It's now Night"
-				sleep(12000)
-				overlays -= 'black50.dmi'	// add the 50% dither
-				overlays += 'amanhecer.dmi'
-				world<<"It is gets bright"
-				sleep(3000)
-				overlays -= 'amanhecer.dmi'
-				world<<"It's a new day!"
-				sleep(12000)*/
-				overlays -= 'amanhecer.dmi'	// add a 25% dither for a fading effect
-				world<<"It's a new day"
-				sleep(500)
-				overlays += 'entardecer.dmi'	// remove the dither
-				world<<"It's going to be dark soon"
-				sleep(300)
-				overlays -= 'entardecer.dmi'	// remove the dither
-				overlays += 'black50.dmi'	// add the 50% dither
-				world<<"It's now Night"
-				sleep(500)
-				overlays -= 'black50.dmi'	// add the 50% dither
-				overlays += 'amanhecer.dmi'
-				world<<"It's getting bright"
-				sleep(300)
-				daycycle7()	// change the 20 to make longer days and night
-
-			SetWeather7(WeatherType)
-				if(Weather)	// see if this area already has a weather effect
-					if(istype(Weather,WeatherType)) return	// no need to reset it
-					overlays -= Weather	// remove the weather display
-					del(Weather)	// destroy the weather object
-				if(WeatherType)	// if WeatherType is null, it just removes the old settings
-					Weather = new WeatherType()	// make a new obj/weather of the right type
-					overlays += Weather	/// display it as an overlay for the area
-*/
 	Kawa
 		Entered(mob/O)
 			if(istype(O))

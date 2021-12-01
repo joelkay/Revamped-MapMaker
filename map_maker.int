@@ -1,20 +1,20 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 0.500
-LAST_COMPILE_TIME: 1634764661
+LAST_COMPILE_TIME: 1635394311
+DIR: code code\_shared code\_shared\_extra code\_shared\Creation_Screen code\_shared\Items+Shop code\_shared\Map Stuff code\_shared\Skills code\_shared\war 
 PACKAGE_RSC_NAME: C:\Development\GOA-Revamped\Source\map\map_maker_rsc.zip
-DIR: code code\_shared\_extra code\_shared\Creation_Screen code\_shared\Items+Shop code\_shared\Skills code\_shared\war 
 AUTO_FILE_DIR: ON
 PACKAGE_DMB_INFO: 
 MAP_ICON_TYPE: 0
 PACKAGE_DME_NAME: C:\Development\GOA-Revamped\Source\map\map_maker_src.zip
 LAST_COMPILE_VERSION: 514.1569
-PACKAGE_DME_START: 
 PACKAGE_TYPE: 1
-WINDOW: Arena.dmm;code\map_Defines.dm;hideouts.dmm
+PACKAGE_DME_START: 
+WINDOW: code\_shared\Map Stuff\turf_game.dm;code\_shared\Map Stuff\map_grid.dm
 PACKAGE_DME_INFO: 
-FILE: hideouts.dmm
-PACKAGE_DME_DEMO: 
+FILE: code\_shared\Map Stuff\map_grid.dm
 PACKAGE_DMB_NAME: C:\Development\GOA-Revamped\Source\map\map_maker.zip
+PACKAGE_DME_DEMO: 
 */
 // END_INTERNALS

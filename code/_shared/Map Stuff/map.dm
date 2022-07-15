@@ -132,107 +132,107 @@ obj
 				mouse_opacity = 2
 				hair1
 					layer = MOB_LAYER
-					icon = 'icons/hairs.dmi'
+					icon = 'icons/hair_legacy/hairs.dmi'
 					icon_state = "hair1"
 				hair2
 					layer = MOB_LAYER
-					icon = 'icons/hairs.dmi'
+					icon = 'icons/hair_legacy/hairs.dmi'
 					icon_state = "hair2"
 				hair3
 					layer = MOB_LAYER
-					icon = 'icons/hairs.dmi'
+					icon = 'icons/hair_legacy/hairs.dmi'
 					icon_state = "hair3"
 				hair4
 					layer = MOB_LAYER
-					icon = 'icons/hairs.dmi'
+					icon = 'icons/hair_legacy/hairs.dmi'
 					icon_state = "hair4"
 				hair5
 					layer = MOB_LAYER
-					icon = 'icons/hairs.dmi'
+					icon = 'icons/hair_legacy/hairs.dmi'
 					icon_state = "hair5"
 				hair6
 					layer = MOB_LAYER
-					icon = 'icons/hairs.dmi'
+					icon = 'icons/hair_legacy/hairs.dmi'
 					icon_state = "hair6"
 				hair7
 					layer = MOB_LAYER
-					icon = 'icons/hairs.dmi'
+					icon = 'icons/hair_legacy/hairs.dmi'
 					icon_state = "hair7"
 				hair8
 					layer = MOB_LAYER
-					icon = 'icons/hairs.dmi'
+					icon = 'icons/hair_legacy/hairs.dmi'
 					icon_state = "hair8"
 				hair9
 					layer = MOB_LAYER
-					icon = 'icons/hairs.dmi'
+					icon = 'icons/hair_legacy/hairs.dmi'
 					icon_state = "hair9"
 				hair10
 					layer = MOB_LAYER
-					icon = 'icons/hairs.dmi'
+					icon = 'icons/hair_legacy/hairs.dmi'
 					icon_state = "hair10"
 				hair11
 					layer = MOB_LAYER
-					icon = 'icons/hairs.dmi'
+					icon = 'icons/hair_legacy/hairs.dmi'
 					icon_state = "hair11"
 				hair12
 					layer = MOB_LAYER
-					icon = 'icons/hairs.dmi'
+					icon = 'icons/hair_legacy/hairs.dmi'
 					icon_state = "hair12"
 				hair13
 					layer = MOB_LAYER
-					icon = 'icons/hairs.dmi'
+					icon = 'icons/hair_legacy/hairs.dmi'
 					icon_state = "hair13"
 				hair14
 					layer = MOB_LAYER
-					icon='icons/hairs.dmi'
+					icon='icons/hair_legacy/hairs.dmi'
 					icon_state="hair14"
 				hair15
 					layer = MOB_LAYER
-					icon='icons/hairs.dmi'
+					icon='icons/hair_legacy/hairs.dmi'
 					icon_state="hair15"
 				hair16
 					layer = MOB_LAYER
-					icon='icons/hairs.dmi'
+					icon='icons/hair_legacy/hairs.dmi'
 					icon_state="hair16"
 				hair17
 					layer = MOB_LAYER
-					icon='icons/hairs.dmi'
+					icon='icons/hair_legacy/hairs.dmi'
 					icon_state="hair17"
 				hair18
 					layer = MOB_LAYER
-					icon = 'icons/hairs.dmi'
+					icon = 'icons/hair_legacy/hairs.dmi'
 					icon_state = "hair18"
 				hair19
 					layer = MOB_LAYER
-					icon = 'icons/hairs.dmi'
+					icon = 'icons/hair_legacy/hairs.dmi'
 					icon_state = "hair19"
 				hair20
 					layer = MOB_LAYER
-					icon = 'icons/hairs.dmi'
+					icon = 'icons/hair_legacy/hairs.dmi'
 					icon_state = "hair20"
 				hair21
 					layer = MOB_LAYER
-					icon = 'icons/hairs.dmi'
+					icon = 'icons/hair_legacy/hairs.dmi'
 					icon_state = "hair21"
 				hair22
 					layer = MOB_LAYER
-					icon = 'icons/hairs.dmi'
+					icon = 'icons/hair_legacy/hairs.dmi'
 					icon_state = "hair22"
 				hair23
 					layer = MOB_LAYER
-					icon = 'icons/hairs.dmi'
+					icon = 'icons/hair_legacy/hairs.dmi'
 					icon_state = "hair23"
 				hair24
 					layer = MOB_LAYER
-					icon = 'icons/hairs.dmi'
+					icon = 'icons/hair_legacy/hairs.dmi'
 					icon_state = "hair24"
 				hair25
 					layer = MOB_LAYER
-					icon = 'icons/hairs.dmi'
+					icon = 'icons/hair_legacy/hairs.dmi'
 					icon_state = "hair25"
 				hair26
 					layer = MOB_LAYER
-					icon = 'icons/hairs.dmi'
+					icon = 'icons/hair_legacy/hairs.dmi'
 					icon_state = "hair26"
 				hair0
 					layer = MOB_LAYER
@@ -252,7 +252,7 @@ obj
 			hair_color
 				layer = MOB_LAYER
 				mouse_opacity = 2
-				icon = 'icons/haircolors.dmi'
+				icon = 'icons/hair_legacy/haircolors.dmi'
 				haircolor1
 					icon_state = "0,1"
 				haircolor2

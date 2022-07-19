@@ -3395,42 +3395,42 @@ obj
 			layer = TURF_LAYER + 0.5
 			pixel_y = -5
 		redTowelShadow
-			icon = 'poleShadows.dmi'
+			icon = 'map/icons/turf/shadows/poleShadows.dmi'
 			icon_state = "towelShadow"
 			pixel_x = 4
 			pixel_y = -94
 		poleShadow1
-			icon = 'poleShadows.dmi'
+			icon = 'map/icons/turf/shadows/poleShadows.dmi'
 			icon_state = "poleShadow1"
 			pixel_y = -95
 			pixel_x = 4
 		poleShadow2
-			icon = 'poleShadows.dmi'
+			icon = 'map/icons/turf/shadows/poleShadows.dmi'
 			icon_state = "poleShadow2"
 			pixel_x = 4
 			pixel_y = -95
 		roundShadow
-			icon = 'poleShadows.dmi'
+			icon = 'map/icons/turf/shadows/poleShadows.dmi'
 			icon_state = "roundShadow"
 			pixel_x = 4
 			pixel_y = -88
 		diagonal1
-			icon = 'poleShadows.dmi'
+			icon = 'map/icons/turf/shadows/poleShadows.dmi'
 			icon_state = "diagonal1"
 			pixel_x = 4
 			pixel_y = -88
 		diagonal2
-			icon = 'poleShadows.dmi'
+			icon = 'map/icons/turf/shadows/poleShadows.dmi'
 			icon_state = "diagonal2"
 			pixel_x = 4
 			pixel_y = -88
 		diagonal3
-			icon = 'poleShadows.dmi'
+			icon = 'map/icons/turf/shadows/poleShadows.dmi'
 			icon_state = "diagonal3"
 			pixel_x = 4
 			pixel_y = -88
 		diagonal4
-			icon = 'poleShadows.dmi'
+			icon = 'map/icons/turf/shadows/poleShadows.dmi'
 			icon_state = "diagonal4"
 			pixel_x = 4
 			pixel_y = -88

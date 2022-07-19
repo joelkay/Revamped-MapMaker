@@ -65,6 +65,7 @@
 #include "code\_shared\Map Stuff\obj2turf.dm"
 #include "code\_shared\Map Stuff\turf_game.dm"
 #include "code\_shared\Map Stuff\turf_obj.dm"
+#include "code\_shared\Map Stuff\turf_portal.dm"
 #include "code\_shared\Map Stuff\warp.dm"
 #include "code\_shared\Mobs and NPCs\mob_definitions.dm"
 #include "code\_shared\Mobs and NPCs\npcs.dm"
